@@ -1,0 +1,14 @@
+{
+  "color": "#000000",
+  "stroke": {
+    "color": "",
+    "width": 0
+  },
+  "shadow": {
+    "color": "#17dcdc",
+    "blur": 0,
+    "deviationX": 4,
+    "deviationY": 4
+  },
+  "font": "HoltwoodOneSC-Regular.ttf"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "#ffffff",
+  "stroke": {
+    "color": "#ff7f00",
+    "width": 1
+  },
+  "shadow": {
+    "color": "#ff7f00",
+    "blur": 4,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  "font": "Nunito-Bold.ttf"
+}

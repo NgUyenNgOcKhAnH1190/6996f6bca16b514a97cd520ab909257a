@@ -1,0 +1,14 @@
+{
+  "color": "#ffffff",
+  "stroke": {
+    "color": "#ff081a",
+    "width": 1
+  },
+  "shadow": {
+    "color": "#ff081a",
+    "blur": 4,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  "font": "Neon.ttf"
+}

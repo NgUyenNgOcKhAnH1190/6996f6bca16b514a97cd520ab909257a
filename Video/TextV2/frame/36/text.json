@@ -1,0 +1,14 @@
+{
+  "color": "#C4B3DD",
+  "stroke": {
+    "color": "",
+    "width": 0
+  },
+  "shadow": {
+    "color": "",
+    "blur": 0,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  "font": "comic.ttf"
+}

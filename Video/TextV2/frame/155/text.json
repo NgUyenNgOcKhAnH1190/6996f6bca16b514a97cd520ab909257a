@@ -1,0 +1,14 @@
+{
+  "color": "#ffffff",
+  "stroke": {
+    "color": "",
+    "width": 0
+  },
+  "shadow": {
+    "color": "#ffffff",
+    "blur": 5,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  "font": "Montserrat-Medium.ttf"
+}

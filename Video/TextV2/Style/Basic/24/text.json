@@ -1,0 +1,18 @@
+{
+  "color": {
+    "startColor":"",
+    "endColor":""
+  },
+  "stroke": {
+    "color": "#000000",
+    "width": 1
+  },
+  "shadow": {
+    "color": "#4D000000",
+    "blur": 1,
+    "deviationX": 1,
+    "deviationY": 1
+  },
+  
+  "isTexture":false
+}

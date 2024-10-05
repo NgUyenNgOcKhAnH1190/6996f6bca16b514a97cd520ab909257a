@@ -1,0 +1,14 @@
+{
+  "color": "#ffffff",
+  "stroke": {
+    "color": "",
+    "width": 0
+  },
+  "shadow": {
+    "color": "#ff9c5a",
+    "blur": 4,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  "font": "mvboli.ttf"
+}

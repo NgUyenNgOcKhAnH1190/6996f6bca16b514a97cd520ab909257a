@@ -1,0 +1,18 @@
+{
+  "color": {
+    "startColor":"#B2FEDF",
+    "endColor":"#0ED2F7"
+  },
+  "stroke": {
+    "color": "#BCFFF6",
+    "width": 2
+  },
+  "shadow": {
+    "color": "",
+    "blur": 0,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  
+  "isTexture":false
+}

@@ -1,0 +1,14 @@
+{
+  "color": "#ffafaa",
+  "stroke": {
+    "color": "#54391e",
+    "width": 1
+  },
+  "shadow": {
+    "color": "",
+    "blur": 0,
+    "deviationX": 0,
+    "deviationY": 0
+  },
+  "font": "helsinki.ttf"
+}

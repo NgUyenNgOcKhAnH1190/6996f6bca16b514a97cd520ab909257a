@@ -1,0 +1,14 @@
+{
+  "color": "#ad593d",
+  "stroke": {
+    "color": "",
+    "width": 0
+  },
+  "shadow": {
+    "color": "#80ad593d",
+    "blur": 0,
+    "deviationX": 1,
+    "deviationY": 1
+  },
+  "font": "Neon.ttf"
+}

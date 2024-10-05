@@ -1,0 +1,14 @@
+{
+  "color": "#352C25",
+  "stroke": {
+    "color": "",
+    "width": 0
+  },
+  "shadow": {
+    "color": "#4D55C6C6",
+    "blur": 2,
+    "deviationX": 2,
+    "deviationY": 0
+  },
+  "font": "SourceCodePro-Regular.ttf"
+}

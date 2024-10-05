@@ -1,0 +1,14 @@
+{
+  "color": "#FFE91E",
+  "stroke": {
+    "color": "#000000",
+    "width": 4
+  },
+  "shadow": {
+    "color": "#000000",
+    "blur": 0,
+    "deviationX": 5,
+    "deviationY": 2
+  },
+  "font": "SHOWG.TTF"
+}
